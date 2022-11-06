@@ -1,3 +1,4 @@
 /Users/birsanstefan/Desktop/Facultate/Embedded/git/git-tutorial/build/CMakeFiles/foo.dir
+/Users/birsanstefan/Desktop/Facultate/Embedded/git/git-tutorial/build/CMakeFiles/ESPL_LIB.dir
 /Users/birsanstefan/Desktop/Facultate/Embedded/git/git-tutorial/build/CMakeFiles/edit_cache.dir
 /Users/birsanstefan/Desktop/Facultate/Embedded/git/git-tutorial/build/CMakeFiles/rebuild_cache.dir
